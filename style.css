@@ -16,11 +16,11 @@ p {
   font-size: 17pt;
 }
 h3 {
-  position: absolute;
-  top: 0;
-  right: 30px;
+  position: fixed;
+  top: 125px;
+  left: 30px;
   font-family: sans-serif;
-  font-size: 30pt;
+  font-size: 17pt;
   color: #baa2a2;
 }
 
